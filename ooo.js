@@ -10,3 +10,4 @@ for ( var x in o ){
 	console.log(x);
 	}
 }
+;
